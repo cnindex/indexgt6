@@ -43,7 +43,7 @@
             }
         },
 		"insert-logo": {
-			"url": "![0](https://cnindex.github.io/indexgt5/img/group.jpg)",
+			"url": "https://cnindex.github.io/indexgt5/img/group.jpg",
 			"style": "background: none; max-height: 30px; min-height: 30px"
 		},
 		"hide-element": {
