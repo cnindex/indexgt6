@@ -6,7 +6,9 @@ def main(name = ''):
 		'幻想杀手': 'Imagine Breaker',
 		'必要恶之教会': 'Necessarius',
 		'蔷薇十字': 'Rosicrucianism',
-		
+		'警备员': 'Anti-Skill',
+		'致幻剂': 'LSD',
+		'超能力': 'Level 5',
 	}
 
 	out = ""
