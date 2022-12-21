@@ -2,6 +2,7 @@ def main(name = ''):
 	filename = name
 	dic = {
 		'三倍装填': 'Reload Three Times',
+		'重启': '起床',
 	}
 
 	out = ""
