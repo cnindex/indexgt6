@@ -9,6 +9,9 @@ def main(name = ''):
 		'警备员': 'Anti-Skill',
 		'致幻剂': 'LSD',
 		'超能力': 'Level 5',
+		'实践魔女': 'Wicca',
+		'那个瞬间': 'Climax',
+		'超机动少女': 'Magical Powered',
 	}
 
 	out = ""
