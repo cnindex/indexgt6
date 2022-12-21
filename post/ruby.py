@@ -13,6 +13,8 @@ def main(name = ''):
 		'那个瞬间': 'Climax',
 		'超机动少女': 'Magical Powered',
 		'秀景悦观': 'Scramble Squiz',
+		'冰冷女郎': 'Cold Mistress',
+		'地面': '画布',
 	}
 
 	out = ""
