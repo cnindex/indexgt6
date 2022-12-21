@@ -3,6 +3,10 @@ def main(name = ''):
 	dic = {
 		'三倍装填': 'Reload Three Times',
 		'重启': '起床',
+		'幻想杀手': 'Imagine Breaker',
+		'必要恶之教会': 'Necessarius',
+		'蔷薇十字': 'Rosicrucianism',
+		
 	}
 
 	out = ""
