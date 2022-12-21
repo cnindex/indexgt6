@@ -12,6 +12,7 @@ def main(name = ''):
 		'实践魔女': 'Wicca',
 		'那个瞬间': 'Climax',
 		'超机动少女': 'Magical Powered',
+		'秀景悦观': 'Scramble Squiz',
 	}
 
 	out = ""
